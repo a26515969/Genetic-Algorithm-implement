@@ -1,3 +1,3 @@
-"# Vue_Todolist" 
-# Vue_Todolist
-"# Genetic-Algorithm-implement"  
+
+"# Genetic-Algorithm-implement"
+啟發式演算法：基因演算  
